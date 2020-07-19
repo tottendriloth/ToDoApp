@@ -84,6 +84,7 @@ window.onload = function () {
             });
         }
     
+        
         function clearList() {
             todoList = [];
             localStorage.clear();
